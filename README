@@ -12,3 +12,5 @@ Main Folders:
 Controllers - API endpoints
 Models - Database models
 RaceDayDatabase - Entity Framework database context
+
+Created an SQL and intergrated it into my code.
